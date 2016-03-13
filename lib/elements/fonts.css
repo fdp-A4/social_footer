@@ -1,0 +1,16 @@
+.content {
+  font: 300 40px Lato, sans-serif;
+  text-align: center;
+}
+
+.footer {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.social {
+  line-height: 70px;
+  font-family: Entypo;
+  font-size: 35px;
+  text-align: center;
+}
